@@ -20,6 +20,8 @@ This is simple Whatsapp clone built with next-js
 
 Firebase config data you have to replace it with yours & save.
 
+[Screenshot](/screenshot1.jpeg)
+
 #### 5: Now, Goto `src` directory again and find file named `.firebasesrc`
 
 Replace the line `"default": "your_project__name"` & save.
