@@ -21,7 +21,7 @@ This is simple Whatsapp clone 🚀 built with next-js & Styled-Components with 1
 
 Firebase config data you have to replace it with yours & save.
 
-[Screenshot](/screenshot1.jpeg)
+![Screenshot](/screenshot1.jpeg)
 
 #### 5: Now, Goto `src` directory again and find file named `.firebasesrc`
 
