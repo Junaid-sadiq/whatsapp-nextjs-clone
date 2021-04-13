@@ -1,4 +1,5 @@
-This is simple Whatsapp clone built with next-js
+This is simple Whatsapp clone 🚀 built with next-js & Styled-Components with 1-1 Messaging & Live Status functionality and powered by Firebase.It is deployed on Vercel and Firebase.
+
 
 ![Home Page](/screenshot.jpeg)
 
@@ -16,7 +17,7 @@ This is simple Whatsapp clone built with next-js
 
 `npm install`
 
-#### 4: Goto `src` & Find file named `firebase.js` => Replace the config data to your project config data(first you have to create a project on firebase).
+#### 4: Goto Firebase and create a new project and then goto `src` & Find file named `firebase.js` => Replace the config data to your project config data.
 
 Firebase config data you have to replace it with yours & save.
 
