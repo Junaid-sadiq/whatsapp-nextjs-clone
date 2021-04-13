@@ -1,8 +1,30 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## Follow these simple steps to have your own whatsapp clone
 
-First, run the development server:
+#### 1: Clone this repo using this command
+
+`git clone https://github.com/Junaid-sadiq/whatsapp-nextjs-clone.git
+
+#### 2: Enter
+
+`cd whatsapp-clone`
+
+#### 3: Next
+
+`npm install`
+
+#### 4: Goto `src` & Find file named `firebase.js` => Replace the config data to your project config data(first you have to create a project on firebase).
+
+Firebase config data you have to replace it with yours & save.
+
+#### 5: Now, Goto `src` directory again and find file named `.firebasesrc`
+
+Replace the line `"default": "your_project__name"` & save.
+
+#### 6: Hit `npm run dev` in terminal & Boom you have your own whatsapp clone!! open at port 3000.
+
+Run the development server:
 
 ```bash
 npm run dev
@@ -22,8 +44,8 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+-   [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+-   [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
