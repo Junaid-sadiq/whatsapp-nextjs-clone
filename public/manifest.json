@@ -1,0 +1,35 @@
+{
+  "name": "Whatsapp",
+  "short_name": "Whatsapp",
+  "description": "A Whatsapp clone built with Next.js with  1-1 Messaging, Live Status, Styled-Components.",
+  "lang": "en-US",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#2a2f32",
+  "background_color": "#131c21",
+  "icons": [
+    {
+    "src": "/Icon-192X192.png",
+    "sizes": "192x192",
+    "type": "image/png",
+    "purpose": "maskable any"
+  },
+  {
+    "src": "/Icon-256X256.png",
+    "sizes": "256x256",
+    "type": "image/png"
+  },
+  {
+    "src": "/Icon-384X384.png",
+    "sizes": "384x384",
+    "type": "image/png"
+  },
+  {
+    "src": "/Icon-512X512.png",
+    "sizes": "512x512",
+    "type": "image/png",
+    "purpose": "maskable any"
+  }
+  ]
+}
